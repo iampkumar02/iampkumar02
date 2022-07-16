@@ -1,8 +1,9 @@
-# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞, I’m Prashant Kumar
+# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞, I’m Prashant Kumar 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iampkumar02.iampkumar02" />
 
 ## 🙋🏽‍♂️About Me
 
-- I am a Information Technology undergraduate student at the Indian Institute of Information Technology, Gwalior ( IIIT Gwalior ) pursuing a Bachelor of Technology in my Second Year.
+- I am an Information Technology undergraduate student at the Indian Institute of Information Technology, Gwalior ( IIIT Gwalior ) pursuing a Bachelor of Technology in my Second Year.
 - I have interest in Open Source, Application Development, Networking and competitive programming.
 - 🌱 I’m currently learning **Linear Regression and Neural Networks in Machine Learning**
 <!-- - 🔭 I’m currently working on [Vitess](https://github.com/vitessio) 
