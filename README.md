@@ -18,8 +18,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=iampkumar02&show_icons=true&count_private=true&theme=onedark">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=iampkumar02&show_icons=true&count_private=true&theme=onedark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=king-11&theme=onedark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-11&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iampkumar02&theme=onedark">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampkumar02&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
 </a>
 </div>
 <!--
