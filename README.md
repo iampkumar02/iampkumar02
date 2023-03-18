@@ -5,10 +5,10 @@
 
 - I am an Information Technology undergraduate student at the Indian Institute of Information Technology, Gwalior ( IIIT Gwalior ) pursuing a Bachelor of Technology in my Second Year.
 - I have interest in Open Source, Application Development, Networking and competitive programming.
-- 🌱 I’m currently learning **Linear Regression and Neural Networks in Machine Learning**
+- 🌱 I’m currently learning **Gnome Control Center and Gnome Network Displays (:/RTSP)**
 <!-- - 🔭 I’m currently working on [Vitess](https://github.com/vitessio) 
 - 👯 I’m looking to collaborate on [genx](https://crates.io/crates/genx) -->
-- 💬 Ask me about **MySQL, Nodejs, Julia, C++, Docker**
+- 💬 Ask me about **C/C++,Docker,Gtk+4,Gnome**
 - 📫 How to reach me **iampkumar02@gmail.com**
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com.../view?usp=sharing) -->
 
